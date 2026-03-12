@@ -1,0 +1,48 @@
+# SOSPC — Generative Engine Optimization Map
+
+> SOSPC
+
+---
+
+## Pages
+
+### Home
+https://sospc-7eb5eb28.zappy5.app
+SOSPC delivers managed IT services for small business and startups. Get expert corporate IT management, 24/7 support, and scalable solutions. Start now!
+
+## Legal & Policy
+
+### Privacy Policy
+https://sospc-7eb5eb28.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://sospc-7eb5eb28.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://sospc-7eb5eb28.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About SOSPC
+SOSPC
+
+## Target Audience
+- Small Business Owners
+- IT Freelancers
+- Startup Founders
+- Corporate IT Managers
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://sospc-7eb5eb28.zappy5.app/sitemap.xml
+- **Robots.txt**: https://sospc-7eb5eb28.zappy5.app/robots.txt
